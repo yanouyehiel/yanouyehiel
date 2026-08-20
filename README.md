@@ -31,7 +31,7 @@ Développeur Full-Stack et consultant IT basé à Douala, Cameroun. Je conçois 
 [![Statistiques GitHub de yanouyehiel](https://github-stats-extended.vercel.app/api?username=yanouyehiel&hide=stars&show_icons=true&theme=algolia&border_radius=18)](https://github.com/yanouyehiel)
 [![Langages les plus utilisés](https://github-stats-extended.vercel.app/api/top-langs/?username=yanouyehiel&layout=compact&theme=algolia&border_radius=18)](https://github.com/yanouyehiel)
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yanouyehiel&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)](https://github.com/yanouyehiel)
+[![Trophées GitHub](https://github-profile-trophy-winning.vercel.app/?username=yanouyehiel&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)](https://github.com/yanouyehiel)
 
 ## Activité
 
