@@ -43,4 +43,4 @@ Développeur Full-Stack et consultant IT basé à Douala, Cameroun. Je conçois 
 
 ---
 
-📫 Pour me contacter : [LinkedIn](https://www.linkedin.com/in/yehiel-yanou-150444221/) · [X / Twitter](https://twitter.com/yanou_yehiel) · [Portfolio](https://mon-portofolio-ten.vercel.app)
+📫 Pour me contacter : [LinkedIn](https://www.linkedin.com/in/yehiel-yanou-150444221/) · [X / Twitter](https://twitter.com/yanou_yehiel) · [Portfolio](https://mon-portofolio-ten.vercel.app) · [Email](mailto:yanou.yehiel@yahoo.com)
